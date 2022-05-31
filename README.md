@@ -21,7 +21,7 @@ Project 1: https://obutler.github.io/Project-1/
 
 Project 2: https://obutler.github.io/Project-2/
 
-Project 3:
+Project 3: https://obutler.github.io/Project-3/
 
 Project 4:
 
