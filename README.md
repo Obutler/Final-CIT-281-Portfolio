@@ -19,7 +19,7 @@ Projects:
 ---------
 Project 1: https://obutler.github.io/Project-1/
 
-Project 2:
+Project 2: https://obutler.github.io/Project-2/
 
 Project 3:
 
