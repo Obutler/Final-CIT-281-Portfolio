@@ -17,17 +17,17 @@ CIT 281 is the first course in cross-platform Web App Development. This course w
 
 Projects:
 ---------
-Project 1: https://obutler.github.io/Project-1/
+Project 1: [link](https://obutler.github.io/Project-1/)
 
-Project 2: https://obutler.github.io/Project-2/
+Project 2: [link](https://obutler.github.io/Project-2/)
 
-Project 3: https://obutler.github.io/Project-3/
+Project 3: [link](https://obutler.github.io/Project-3/)
 
-Project 4: https://obutler.github.io/Project-4/
+Project 4: [link](https://obutler.github.io/Project-4/)
 
 Project 5: (Optional Project)
 
-Project 6:
+Project 6: [link](https://obutler.github.io/Project-6/)
 
 Project 7: (Creating this portfolio)
 
