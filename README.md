@@ -48,7 +48,7 @@ Lab 5: [Lab 5](https://obutler.github.io/Lab-5/)
 
 Lab 6: [Lab 6](https://obutler.github.io/Lab-6/)
 
-Lab 7: 
+Lab 7: [Lab 7](https://obutler.github.io/Lab-7/)
 
 Lab 8:
 
