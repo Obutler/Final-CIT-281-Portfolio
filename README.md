@@ -34,7 +34,7 @@ Project 7: (Creating this portfolio)
 Labs: 
 -----
 
-Lab 1:
+Lab 1: [Lab 1](https://obutler.github.io/Lab-1/)
 
 Lab 2:
 
