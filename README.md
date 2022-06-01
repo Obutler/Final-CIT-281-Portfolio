@@ -1,5 +1,5 @@
-# CIT-281-Portfolio
-✨💻CIT 281 Final Portfolio💻✨
+
+#✨💻CIT 281 Final Portfolio💻✨
 ---
 
 This repo is a compilation of every CIT 281 course project/lab for the UO CIT Minor. (Prof Phil Colbert)
