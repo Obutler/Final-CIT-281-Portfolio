@@ -50,6 +50,6 @@ Lab 6: [Lab 6](https://obutler.github.io/Lab-6/)
 
 Lab 7: [Lab 7](https://obutler.github.io/Lab-7/)
 
-Lab 8:
+Lab 8: [Lab 8](https://obutler.github.io/Lab-8/)
 
 Lab 9:
