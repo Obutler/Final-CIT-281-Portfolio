@@ -4,6 +4,8 @@
 
 This repo is a compilation of every CIT 281 course project/lab for the UO CIT Minor. (Prof Phil Colbert)
 
+![](https://canvas.uoregon.edu/courses/198787/files/13209143/preview)
+
 Course Description/Objectives:
 ---
 CIT 281 is the first course in cross-platform Web App Development. This course will focus on learning more advanced JavaScript techniques and methodologies, server-side JavaScript, REST and JSON, git and GitHub, advanced debugging, and using a number of emerging methods, tools, and technologies of the Web Platform.
