@@ -36,7 +36,7 @@ Labs:
 
 Lab 1: [Lab 1](https://obutler.github.io/Lab-1/)
 
-Lab 2:
+Lab 2: [Lab 2](https://obutler.github.io/Lab-2/)
 
 Lab 3:
 
