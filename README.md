@@ -19,37 +19,36 @@ CIT 281 is the first course in cross-platform Web App Development. This course w
 
 Projects:
 ---------
-Project 1: [Project 1](https://obutler.github.io/Project-1/)
+[Project 1](https://obutler.github.io/Project-1/)
 
-Project 2: [Project 2](https://obutler.github.io/Project-2/)
+[Project 2](https://obutler.github.io/Project-2/)
 
-Project 3: [Project 3](https://obutler.github.io/Project-3/)
+[Project 3](https://obutler.github.io/Project-3/)
 
-Project 4: [Project 4](https://obutler.github.io/Project-4/)
+[Project 4](https://obutler.github.io/Project-4/)
 
 Project 5: (Optional Project)
 
 Project 6: [Project 6](https://obutler.github.io/Project-6/)
 
-Project 7: (Creating this portfolio)
 
 Labs: 
 -----
 
-Lab 1: [Lab 1](https://obutler.github.io/Lab-1/)
+[Lab 1](https://obutler.github.io/Lab-1/)
 
-Lab 2: [Lab 2](https://obutler.github.io/Lab-2/)
+[Lab 2](https://obutler.github.io/Lab-2/)
 
-Lab 3: [Lab 3](https://obutler.github.io/Lab-3/)
+[Lab 3](https://obutler.github.io/Lab-3/)
 
-Lab 4: [Lab 4](https://obutler.github.io/Lab-4/)
+[Lab 4](https://obutler.github.io/Lab-4/)
 
-Lab 5: [Lab 5](https://obutler.github.io/Lab-5/)
+[Lab 5](https://obutler.github.io/Lab-5/)
 
-Lab 6: [Lab 6](https://obutler.github.io/Lab-6/)
+[Lab 6](https://obutler.github.io/Lab-6/)
 
-Lab 7: [Lab 7](https://obutler.github.io/Lab-7/)
+[Lab 7](https://obutler.github.io/Lab-7/)
 
-Lab 8: [Lab 8](https://obutler.github.io/Lab-8/)
+[Lab 8](https://obutler.github.io/Lab-8/)
 
 Lab 9:
