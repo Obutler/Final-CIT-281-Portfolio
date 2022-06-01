@@ -17,7 +17,7 @@ CIT 281 is the first course in cross-platform Web App Development. This course w
 - Modern coding and debugging tools
 - Learn git and Github
 
-Projects:
+Projects: (To see project files please click "View on GitHub")
 ---------
 [Project 1](https://obutler.github.io/Project-1/)
 
@@ -32,7 +32,7 @@ Projects:
 [Project 6](https://obutler.github.io/Project-6/)
 
 
-Labs: 
+Labs: (To see lab files please click "View on GitHub")
 -----
 
 [Lab 1](https://obutler.github.io/Lab-1/)
