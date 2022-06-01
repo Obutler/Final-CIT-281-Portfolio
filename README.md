@@ -27,9 +27,9 @@ Projects:
 
 [Project 4](https://obutler.github.io/Project-4/)
 
-Project 5: (Optional Project)
+(Project 5, Optional Project)
 
-Project 6: [Project 6](https://obutler.github.io/Project-6/)
+[Project 6](https://obutler.github.io/Project-6/)
 
 
 Labs: 
@@ -51,4 +51,4 @@ Labs:
 
 [Lab 8](https://obutler.github.io/Lab-8/)
 
-Lab 9:
+[Lab 9](https://obutler.github.io/Lab-9/)
