@@ -1,5 +1,5 @@
 
-#✨💻CIT 281 Final Portfolio💻✨
+#CIT 281 Final Portfolio
 ---
 
 ![](https://canvas.uoregon.edu/courses/198787/files/13209143/preview)
